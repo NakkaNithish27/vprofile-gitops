@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md) | [Architecture](architecture.md) | [Implementation](implementation.md) | [Validation](validation.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/96e6891d-f7ee-4237-bd79-750bf5aca9d7" />
+
+
 ## 1. Purpose
 
 This document defines the current boundaries of the VProfile GitOps project and identifies the engineering improvements that would move the platform toward a more mature production-oriented implementation.
