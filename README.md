@@ -2,6 +2,9 @@
 
 An end-to-end **GitOps delivery project** that deploys the existing VProfile application workload to **Amazon EKS** using **GitHub Actions, Docker, Amazon ECR, Helm, Argo CD, and Terraform**.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f97188fc-ca7a-47ac-92dd-2960bb30d737" />
+
+
 > **Project focus:** The engineering work in this repository is the infrastructure, CI/CD, Kubernetes deployment, GitOps integration, and validation surrounding the VProfile workload. The VProfile application itself was provided as the project workload and was not developed as part of this project.
 
 ---
