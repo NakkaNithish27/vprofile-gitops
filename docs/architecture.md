@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4dff27b4-ec2a-43df-b3e4-aaac1adcedc5" />
+
+
 ## 1. Architecture Overview
 
 This project implements an end-to-end GitOps delivery architecture for deploying the existing VProfile application workload to Amazon EKS.
