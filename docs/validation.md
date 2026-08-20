@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md) | [Architecture](architecture.md) | [Implementation](implementation.md) | [Limitations & Future Work](limitations-and-future-work.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/45bf4daf-13e2-46b8-85dc-5265d6ad9bcd" />
+
+
 ## 1. Validation Overview
 
 Validation proves that the VProfile GitOps platform works as an integrated delivery system rather than merely proving that individual commands completed successfully.
