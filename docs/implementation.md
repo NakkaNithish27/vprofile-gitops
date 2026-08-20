@@ -2,6 +2,8 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7508553a-294f-4285-80b9-6560e57a9e01" />
+
 ## 1. Implementation Overview
 
 This document describes how the VProfile GitOps platform was assembled and connected.
